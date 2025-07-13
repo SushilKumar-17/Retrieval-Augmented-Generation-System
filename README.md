@@ -21,7 +21,7 @@ A sophisticated Retrieval-Augmented Generation (RAG) chat system that enables us
 **Live Demo:** [RAG Chat System](https://retrieval-augmented-generation-system-h35tobtw4t6afsp2ipawre.streamlit.app/)
 
 <div align="center">
-  <img src="assets/img (2).png" alt="Main Interface" width="80%"/>
+  <img src="assets/img.png" alt="Main Interface" width="80%"/>
   <p><em>Main chat interface with document upload and query functionality</em></p>
 </div>
 
@@ -93,7 +93,7 @@ This implementation provides:
 However, due to deployment constraints on cloud platforms, the production application utilizes Groq's cloud-based infrastructure for optimal performance and scalability.
 
 <div align="center">
-  <img src="assets/chat_interaction.png" alt="Chat Interaction" width="80%"/>
+  <img src="assets/img (2).png" alt="Chat Interaction" width="80%"/>
   <p><em>Real-time chat interaction with source attribution</em></p>
 </div>
 
