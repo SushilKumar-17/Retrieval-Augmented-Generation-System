@@ -18,10 +18,10 @@ A sophisticated Retrieval-Augmented Generation (RAG) chat system that enables us
 
 ## Deployed Application
 
-**Live Demo:** [RAG Chat System](https://your-deployment-url.streamlit.app)
+**Live Demo:** [RAG Chat System](https://retrieval-augmented-generation-system-h35tobtw4t6afsp2ipawre.streamlit.app/)
 
 <div align="center">
-  <img src="assets/main_interface.png" alt="Main Interface" width="80%"/>
+  <img src="assets/img (2).png" alt="Main Interface" width="80%"/>
   <p><em>Main chat interface with document upload and query functionality</em></p>
 </div>
 
@@ -65,12 +65,12 @@ The system implements a multi-stage RAG pipeline:
 ## Screenshots
 
 <div align="center">
-  <img src="assets/document_processing.png" alt="Document Processing" width="80%"/>
-  <p><em>Document processing and vector store creation</em></p>
+  <img src="assets/img (3).png" alt="Chat Section" width="80%"/>
+  <p><em>Main Body</em></p>
 </div>
 
 <div align="center">
-  <img src="assets/system_status.png" alt="System Status" width="80%"/>
+  <img src="assets/img (1).jpg" alt="System Status" width="80%"/>
   <p><em>System status monitoring and configuration options</em></p>
 </div>
 
